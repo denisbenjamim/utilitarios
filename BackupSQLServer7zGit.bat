@@ -11,7 +11,7 @@ set diretorioBackup=D:\Compartilhamento\Backup
 
 REM DIRETORIO PARA ENVIO DO ARQUIVO 7Z APOS A COMPRESSAO
 set diretorioRede=\\192.168.1.6\BKP
-
+REM Necessario ter 7-zip instalado e configurado no Path do Windows
 REM LOCALIZACAO BLAT SOFTWARE PARA ENVIAR EMAIL
 REM BLAT PODE SER ENCONTRADO EM https://sourceforge.net/projects/blat/
 set blatlocation=C:\blat
